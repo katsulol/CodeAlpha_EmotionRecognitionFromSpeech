@@ -2,7 +2,7 @@
 
 This project detects human emotions (such as happy, sad, angry, etc.) from speech audio using deep learning.
 
-We used the TESS dataset, which contains clear audio recordings labeled with different emotions.
+TESS dataset has been used, which contains clear audio recordings labeled with different emotions.
 
 ## Project Flow:
 
